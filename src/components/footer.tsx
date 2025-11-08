@@ -12,9 +12,19 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="space-y-3">
             <h3 className="text-lg font-semibold">This is Tom</h3>
-            <p className="text-muted-foreground max-w-xs">
-              Building innovative solutions with a focus on AI, machine learning,
-              and modern technological products.
+            <p className="text-muted-foreground max-w-xs leading-relaxed">
+              Data Science Intern @ 
+              <a 
+              href="https://www.awaze.com" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-flex items-center ml-1 font-medium text-primary hover:text-primary/80 transition-colors underline hover:text-primary transition"
+              >
+              Awaze
+              </a>
+              <br className="my-2"/>
+              Building innovative solutions with focus on AI, machine learning and 
+              modern technological products.
             </p>
           </div>
 
@@ -81,6 +91,7 @@ export function Footer() {
               </a>
             </div>
             <div className="text-muted-foreground space-y-1">
+              <p>Manchester, United Kingdom</p>
               <a 
                 href="mailto:laiminhthong1@gmail.com"
                 className="block hover:text-primary transition"

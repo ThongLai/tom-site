@@ -35,9 +35,13 @@ export default function AboutPage() {
             <p>
               My journey in tech began with a degree in IT & Computer Science, where I developed a strong foundation in algorithms, data structures, and software engineering principles. During my studies, I became fascinated with AI/ML and its potential to transform industries.
             </p>
+
+            <p>
+              I graduated in 2025 and I'm now working as a Data Science Intern at <Link href="https://www.awaze.com" target="_blank" className="text-primary hover:underline">Awaze Vacation Rentals LTD</Link> (We operate vacation rental platforms like <Link href="https://cottages.com" target="_blank" className="text-primary hover:underline italic">Cottages</Link>, <Link href="https://www.hoseasons.co.uk" target="_blank" className="text-primary hover:underline italic">Hoseasons</Link>, <Link href="https://www.novasol.co.uk" target="_blank" className="text-primary hover:underline italic">Novasol</Link>, and many more!), where I'm building ML models for property recommendations, abandoned basket optimization for the Marketing and CRM teams.  I'm really enjoying working here (they even have a free delicious coffee bar with a barista 😃). There are lots more exciting projects coming my way as well :)
+            </p>
             
             <p>
-              With my graduation near, I want to continue my graduate project thesis research, which focuses on Explainable AI (XAI) and its applications in Deep Learning models. I believe that understanding the "why" behind AI decisions is crucial for building trust and ensuring ethical use of technology. I am SO investing in this, I am on my way looking for funding/scholarship from companies/institutions that can help me to continue with a research degree in XAI. 
+              During my years at Uni, it seems like they really liked my <Link href="https://github.com/ThongLai/Credit-Card-Transaction-Fraud-Detection-Using-Explainable-AI" target="_blank" className="text-primary hover:underline">graduate thesis</Link> on Explainable AI (XAI) and its applications in Deep Learning models, I got the <Link href="https://1drv.ms/b/c/13c38a0c57444de7/ESHYCr2W6atHvqHiwHmmZOQBDWMYlpn5GVI4B0yb6Tx4og?e=g95Efu" target="_blank" className="text-primary hover:underline italic">"Best Overall Performance on the Final Year Project in Computing and Computer Science"</Link> award (Nice 😃👍). I want to continue this research, which focuses on Explainable AI and its applications in Deep Learning models. I believe that understanding the "why" behind AI decisions is crucial for building trust and ensuring ethical use of technology. I am SO investing in this, I am on my way looking for funding/scholarship from companies/institutions that can help me to continue with a research degree in XAI.
             </p>
             
             <h3 className="text-2xl font-bold mt-8">My Philosophy</h3>
@@ -70,6 +74,10 @@ export default function AboutPage() {
               <h3 className="text-xl font-bold mb-4">Experience</h3>
               <ul className="space-y-4">
                 <li>
+                  <p className="font-medium">Data Science Intern</p>
+                  <p className="text-muted-foreground">Awaze, June 2025-Present</p>
+                </li>
+                <li>
                   <p className="font-medium">AI Software Engineer - Summer Intern</p>
                   <p className="text-muted-foreground">Learnspot, June 2024-September 2024</p>
                 </li>
@@ -90,7 +98,7 @@ export default function AboutPage() {
         {/* CV Download */}
         <div className="mt-8">
           <h2 className="text-xl font-semibold mb-2">My Resume</h2>
-          <p className="mb-4">Hey! Are you hiring? Feel free to take a look at my CV below.</p>
+          <p className="mb-4">Hey! Are you looking for someone to do some kinds of work? Feel free to take a look at my CV below.</p>
           <Button
             asChild
             variant="default"
