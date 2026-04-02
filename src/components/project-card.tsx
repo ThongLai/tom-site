@@ -1,4 +1,5 @@
-import { Github, ExternalLink, FileText, Presentation, Play, Link as LinkIcon, BookOpen, BookCopy} from "lucide-react";
+import { ExternalLink, FileText, Presentation, Play, Link as LinkIcon, BookOpen, BookCopy} from "lucide-react";
+import { FaGithub as Github} from "react-icons/fa";
 import Image from "next/image";
 import { ProjectType } from "@/lib/constants";
 import { Button } from "./ui/button";

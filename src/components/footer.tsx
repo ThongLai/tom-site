@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { SiGithub as Github, SiLinkedin as Linkedin, SiKaggle as Kaggle} from "react-icons/si";
+import { FaGithub as Github, FaLinkedin as Linkedin, FaKaggle as Kaggle} from "react-icons/fa";
 import { SOCIAL_LINKS } from "@/lib/constants";
 
 export function Footer() {
