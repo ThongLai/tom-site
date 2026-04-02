@@ -13,14 +13,14 @@ export function Footer() {
           <div className="space-y-3">
             <h3 className="text-lg font-semibold">This is Tom</h3>
             <p className="text-muted-foreground max-w-xs leading-relaxed">
-              Data Science Intern @ 
+              Associate Data Scientist @ 
               <a 
               href="https://www.awaze.com" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="inline-flex items-center ml-1 font-medium text-primary hover:text-primary/80 transition-colors underline hover:text-primary transition"
               >
-              Awaze
+              Awaze Vacation Rentals Ltd
               </a>
               <br className="my-2"/>
               Building innovative solutions with focus on AI, machine learning and 

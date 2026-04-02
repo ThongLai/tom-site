@@ -37,7 +37,7 @@ export default function AboutPage() {
             </p>
 
             <p>
-              I graduated in 2025 and I'm now working as a Data Science Intern at <Link href="https://www.awaze.com" target="_blank" className="text-primary hover:underline">Awaze Vacation Rentals LTD</Link> (We operate vacation rental platforms like <Link href="https://cottages.com" target="_blank" className="text-primary hover:underline italic">Cottages</Link>, <Link href="https://www.hoseasons.co.uk" target="_blank" className="text-primary hover:underline italic">Hoseasons</Link>, <Link href="https://www.novasol.co.uk" target="_blank" className="text-primary hover:underline italic">Novasol</Link>, and many more!), where I'm building ML models for property recommendations, abandoned basket optimization for the Marketing and CRM teams.  I'm really enjoying working here (they even have a free delicious coffee bar with a barista 😃). There are lots more exciting projects coming my way as well :)
+              I graduated in 2025 and I'm now working as a <strong>Associate Data Scientist</strong> at <Link href="https://www.awaze.com" target="_blank" className="text-primary hover:underline">Awaze Vacation Rentals LTD</Link> (We operate vacation rental platforms like <Link href="https://cottages.com" target="_blank" className="text-primary hover:underline italic">Cottages</Link>, <Link href="https://www.hoseasons.co.uk" target="_blank" className="text-primary hover:underline italic">Hoseasons</Link>, <Link href="https://www.novasol.co.uk" target="_blank" className="text-primary hover:underline italic">Novasol</Link>, and many more!), where I'm building ML models for property recommendations, abandoned basket optimization for the Marketing and CRM teams.  I'm really enjoying working here (they even have a free delicious coffee bar with a barista 😃). There are lots more exciting projects coming my way as well :)
             </p>
             
             <p>
@@ -75,7 +75,11 @@ export default function AboutPage() {
               <ul className="space-y-4">
                 <li>
                   <p className="font-medium">Data Science Intern</p>
-                  <p className="text-muted-foreground">Awaze, June 2025-Present</p>
+                  <p className="text-muted-foreground">Awaze Vacation Rentals Ltd, June 2025-March 2026</p>
+                </li>
+                <li>
+                  <p className="font-medium">Associate Data Scientist</p>
+                  <p className="text-muted-foreground">Awaze Vacation Rentals Ltd, March 2025-Present</p>
                 </li>
                 <li>
                   <p className="font-medium">AI Software Engineer - Summer Intern</p>

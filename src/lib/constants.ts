@@ -46,12 +46,12 @@ export const SKILLS: SkillType[] = [
 ];
 
 export const PROJECTS: ProjectType[] = [
-    {
-    title: "Awaze - Property Recommendation System",
-    description: "Built a recommendation system to suggest similar property listings based on characteristics and user browsing behaviour (Similar to 'Customers who viewed items in your browsing history also viewed' feature on Amazon). Integrated collaborative using Matrix Factorization and content-based filtering using Cosine Similarity.",
-    tags: ["Matrix Factorization", "Cosine Similarity", "TFRS"],
-    image: "https://towardsdatascience.com/wp-content/uploads/2020/02/1b4M7o7W8bfRRxdMxtFoVBQ-2048x958.png",
-  },
+  //   {
+  //   title: "Awaze - Property Recommendation System",
+  //   description: "Built a recommendation system to suggest similar property listings based on characteristics and user browsing behaviour (Similar to 'Customers who viewed items in your browsing history also viewed' feature on Amazon). Integrated collaborative using Matrix Factorization and content-based filtering using Cosine Similarity.",
+  //   tags: ["Matrix Factorization", "Cosine Similarity", "TFRS"],
+  //   image: "https://towardsdatascience.com/wp-content/uploads/2020/02/1b4M7o7W8bfRRxdMxtFoVBQ-2048x958.png",
+  // },
   {
     title: "Awaze - Abandoned Checkout Session Email Optimisation",
     description: "Developed ML to predict abandoned checkout session's return probability for sending targeted email campaigns on Cottages.com and Hoseasons, achieving 84% recall in capture rate for positive customers likely to return after sending reminder email. Strategic labelling framework using timeline based criteria, engagement patterns for imbalanced datasets Based on prediction confidence to determine CRM contact strategies. Developed interactive dashboard for email strategy simulation to test on new recent unseen abandoned sessions using Streamlit.",
