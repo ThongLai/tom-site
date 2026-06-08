@@ -99,10 +99,10 @@ export function Footer() {
                 laiminhthong1@gmail.com
               </a>
               <a 
-                href="mailto:U2259343@unimail.hud.ac.uk"
+                href="mailto:minhthong.lai@awaze.com"
                 className="block hover:text-primary transition"
               >
-                U2259343@unimail.hud.ac.uk
+                minhthong.lai@awaze.com
               </a>
             </div>
           </div>
